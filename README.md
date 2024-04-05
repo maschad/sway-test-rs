@@ -1,4 +1,4 @@
-# 📁 Archived - this repo has been moved to the [sway repo](FuelLabs/sway@master/templates/sway-test-rs)
+# 📁 Archived - this repo has been moved to the [sway repo](https://github.com/FuelLabs/sway/tree/master/templates/sway-test-rs)
 
 # Rust + Sway integration testing
 
