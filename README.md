@@ -1,3 +1,5 @@
+📁 Archived - this repo has been moved to FuelLabs/sway@master/templates/sway-test-rs
+
 # Rust + Sway integration testing
 
 A cargo-generate template that makes it easy to initialise Rust integration
